@@ -73,3 +73,11 @@ OPENAI_API_KEY=""
     
     Any updates pushed to the connected Git repository will trigger an automatic redeployment.
 
+## Architecture
+<ul>
+<li>App framework->Next.js
+<li>LLM->OpenAI
+<li>AI Agent for web seraching->LangChain & Tavily
+<li>Integrating AI into app->CopilotKit
+<li>Blog data storage and retreival->Supabase
+</ul>
