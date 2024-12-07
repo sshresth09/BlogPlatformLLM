@@ -4,6 +4,7 @@ import { createServerComponentClient } from "@supabase/auth-helpers-nextjs";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 
+
 // Define an asynchronous function named 'addArticle' that takes form data as input
 export async function addArticle(formData: any) {
   // Extract title and content from the provided form data
