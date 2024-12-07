@@ -1,4 +1,4 @@
-# aiblogplatform
+# AIBlogPlatform
 ## Setup
 1. Run the development server:
 ```
