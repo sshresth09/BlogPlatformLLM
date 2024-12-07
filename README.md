@@ -1,4 +1,4 @@
-# AIBlogPlatform
+# BlogPlatformLLM
 ## Setup
 1. Run the development server:
 ```
