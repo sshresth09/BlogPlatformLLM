@@ -12,7 +12,7 @@ export default function Header() {
               className="flex-none text-xl font-semibold "
               href="/"
               aria-label="Brand">
-              AIBlogging
+              BlogPlatformLLM
             </Link>
           </div>
           <div id="navbar-collapse-with-animation" className="">
